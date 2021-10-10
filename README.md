@@ -1,7 +1,7 @@
 # Linky
 A simple VueJs x Firebase URL shortener
 
-![Screenshot](https://raw.githubusercontent.com/qvacher/linky/master/linky-screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/qvacher/linky/master/src/assets/linky-screenshot.png)
 
 ## Technologies used
 * VueJS
